@@ -126,13 +126,7 @@ const IndexPage = () => (
           </a>
 
           <p>
-            Developers football competition in diameter big price to layer the
-            pot. Chavez ultricies care who wants to CNN. Lobortis elementum
-            aliquet eget a den of which they do not hold it in hatred developers
-            nor the mountains of the deposit slip. The element of time, sem ante
-            ullamcorper dolor nulla quam placerat viverra environment is not
-            with our customers. Free makeup and skirt until the mouse or
-            partners or to decorate each targeted.
+            Life is an adventure, as it should be. Much of what has influenced the major decisions in my life stems from seeking new and novel experiences. Be it accepting an international assignment in a country that I had barley heard of (on a week's notice), joining startup companies involved in emerging industries, backpacking through Europe, skydiving, renovating homes, embracing fatherhood, or dropping everything to learn how to develop software, I am always in search of ways to learn more and experience more of what this life has to offer. I appreciate quality and believe that a project is not done until it is done well. I enjoy the outdoors and am always looking to explore more of it on foot, bike, skis, boat, motorcycle, or RV. Here's to the next adventure!
           </p>
         </div>
       </section>
@@ -144,14 +138,11 @@ const IndexPage = () => (
           </header>
 
           <p>
-            The element of time, sem ante ullamcorper dolor nulla quam placerat
-            viverra environment is not with our customers. Free makeup and skirt
-            until the mouse. Japan this innovative and ultricies carton salad
-            clinical ridiculous now passes from enhanced. Mauris pot innovative
-            care for my pain.
+          If you have a project or position in mind that you think I would be a good fit for, please reach out.  I am always excited to learn about opportunities to collaborate. 
+            
           </p>
 
-          <form method="post" action="#">
+          <form method="post" action="mailto:paneks19@gmail.com?subject=Portfolio%20Inquiry">
             <div className="row">
               <div className="col-6 col-12-mobile">
                 <input type="text" name="name" placeholder="Name" />
