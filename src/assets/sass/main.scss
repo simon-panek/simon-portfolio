@@ -311,12 +311,12 @@
 		}
 
 		&.avatar48 {
-			width: 48px;
-			height: 48px;
+			width: 54px;
+			height: 72px;
 
 			img {
-				width: 48px;
-				height: 48px;
+				width: 54px;
+				height: 72px;
 			}
 		}
 
@@ -502,9 +502,10 @@
 		border-radius: 0.35em;
 		color: #fff !important;
 		text-decoration: none;
-		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		padding: 0.5em 1.5em 0.5em 1.5em;
+		background-color: #77a09f;
 		border: 0;
+		font-weight: 200;
 		cursor: pointer;
 		@include vendor('background-image', ('linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15))', 'url("../images/overlay.png")'));
 		@include vendor('transition', 'background-color 0.35s ease-in-out');
@@ -730,14 +731,15 @@
 
 			&.dark {
 				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: darkslategray;
+				font-weight: 400;
 
 				h2, h3, h4, h5, h6 {
-					color: inherit;
+					color: darkslategray;
 				}
 
 				strong {
-					color: #fff;
+					color: darkslategray;
 					border-color: inherit;
 				}
 
@@ -759,7 +761,7 @@
 
 			&.one {
 				background-color: #81918E;
-				background-image: url('../images/banner.jpg');
+				background-image: url('../images/mountains.jpg');
 			}
 
 			&.two {
