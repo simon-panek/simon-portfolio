@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6189a5cb-6ed2-432c-9893-302518f1d558/deploy-status)](https://app.netlify.com/sites/simon-portfolio-1/deploys)
+
 # gatsby-starter-prologue
 
 Gatsby.js V2 starter template based on Prologue by HTML5 UP
