@@ -1,4 +1,5 @@
 const config = require('./config');
+const iconPath = require.resolve('./src/assets/images/simon-profile-pic.jpg');
 
 module.exports = {
   pathPrefix: config.pathPrefix,
@@ -16,7 +17,7 @@ module.exports = {
         background_color: config.manifestBackgroundColor,
         theme_color: config.manifestThemeColor,
         display: config.manifestDisplay,
-        icon: config.manifestIcon, // This path is relative to the root of the site.
+        icon: iconPath, // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-sass',
