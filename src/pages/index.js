@@ -29,8 +29,11 @@ const IndexPage = () => (
         <div className="container">
           <header>
             <h2 className="alt">
-              Software developer
+              Simon Panek
             </h2>
+            <h3>
+              Software developer
+            </h3>
             <p>I am a full stack developer with a background in business. I have an MBA and have filled many technical roles including in startup companies and internationally. Checkout some of my projects!</p>
           </header>
 
