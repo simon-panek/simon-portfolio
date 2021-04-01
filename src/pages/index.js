@@ -4,12 +4,12 @@ import Layout from '../components/Layout';
 import PageFooter from '../components/PageFooter';
 import SideBar from '../components/SideBar';
 
-import pic2 from '../assets/images/pic02.jpg';
-import pic3 from '../assets/images/pic03.jpg';
-import pic4 from '../assets/images/pic04.jpg';
-import pic5 from '../assets/images/pic05.jpg';
-import pic6 from '../assets/images/pic06.jpg';
-import pic7 from '../assets/images/pic07.jpg';
+import pic2 from '../assets/images/ppc-screen-shot.png';
+import pic3 from '../assets/images/mod-s-screen-shot.png';
+import pic4 from '../assets/images/gamesis-5000-screen-shot.png';
+import pic5 from '../assets/images/simon-github-screen-shot.png';
+import pic6 from '../assets/images/home-screen-shot.png';
+import pic7 from '../assets/images/extractor-screen-shot.png';
 import pic8 from '../assets/images/family-tree-cropped.jpg';
 import Scroll from '../components/Scroll';
 
@@ -60,55 +60,55 @@ const IndexPage = () => (
           <div className="row">
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/parent-pickup-coordinator" className="image fit">
                   <img src={pic2} alt="" />
                 </a>
                 <header>
-                  <h3>Ipsum Feugiat</h3>
+                  <h3>Parent Pickup Coordinator</h3>
                 </header>
               </article>
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/Mod-s/module-docs-support" className="image fit">
                   <img src={pic3} alt="" />
                 </a>
                 <header>
-                  <h3>Rhoncus Semper</h3>
+                  <h3>Module Docs Support</h3>
                 </header>
               </article>
             </div>
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/simon-panek/game-inventory-app" className="image fit">
                   <img src={pic4} alt="" />
                 </a>
                 <header>
-                  <h3>Magna Nullam</h3>
+                  <h3>Gamesis 5000</h3>
                 </header>
               </article>
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://github.com/simon-panek" className="image fit">
                   <img src={pic5} alt="" />
                 </a>
                 <header>
-                  <h3>Natoque Vitae</h3>
+                  <h3>Most Recent GitHub Contribution</h3>
                 </header>
               </article>
             </div>
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="#portfolio" className="image fit">
                   <img src={pic6} alt="" />
                 </a>
                 <header>
-                  <h3>Dolor Penatibus</h3>
+                  <h3>Home Renovation Project Management</h3>
                 </header>
               </article>
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="#portfolio" className="image fit">
                   <img src={pic7} alt="" />
                 </a>
                 <header>
-                  <h3>Orci Convallis</h3>
+                  <h3>Supercritical CO2 Extractor Product Development</h3>
                 </header>
               </article>
             </div>
