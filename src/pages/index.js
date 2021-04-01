@@ -10,7 +10,7 @@ import pic4 from '../assets/images/pic04.jpg';
 import pic5 from '../assets/images/pic05.jpg';
 import pic6 from '../assets/images/pic06.jpg';
 import pic7 from '../assets/images/pic07.jpg';
-import pic8 from '../assets/images/pic08.jpg';
+import pic8 from '../assets/images/family-tree-cropped.jpg';
 import Scroll from '../components/Scroll';
 
 const sections = [
@@ -29,8 +29,6 @@ const IndexPage = () => (
         <div className="container">
           <header>
             <h2 className="alt">
-              Hi! I'm <strong>Simon</strong>
-              <br />
               Software developer
             </h2>
             <p>I am a full stack developer with a background in business. I have an MBA and have filled many technical roles including in startup companies and internationally. Checkout some of my projects!</p>
