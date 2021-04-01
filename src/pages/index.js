@@ -86,7 +86,7 @@ const IndexPage = () => (
                 </header>
               </article>
               <article className="item">
-                <a href="https://github.com/simon-panek" className="image fit">
+                <a href="https://github.com/simon-panek?tab=repositories" className="image fit">
                   <img src={pic5} alt="" />
                 </a>
                 <header>
